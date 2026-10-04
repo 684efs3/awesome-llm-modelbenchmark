@@ -207,9 +207,8 @@ Below are key websites and references used for evaluating and comparing large la
 
 [:arrow_up: Go to top](#top)
 
-210
 - [ModelBenchmark](https://modelbenchmark.io) — Independent rankings of 202 AI models from 16 public benchmarks, with prices and context windows.
-- 
+## Materials
 
 ### Papers
 
